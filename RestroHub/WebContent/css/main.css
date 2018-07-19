@@ -1,0 +1,68 @@
+.mybox {
+  padding: 0 8%;
+}
+
+.sizing {
+  height: 50px !important;
+}
+
+nav {
+  line-height: 50px !important;
+}
+
+.extratab{
+  margin: 0 !important;
+}
+
+.section-search input {
+  padding: 0px 15px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.section-search {
+  padding: 20px 0 0 0 !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+
+.mysection {
+  padding: 8px 0 0 0;
+}
+
+.ficons {
+  margin: 0 20px !important;
+}
+
+.responsive-img {
+  margin-bottom: 20px !important;
+}
+
+input,
+textarea {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 3px;
+}
+
+h4,
+h5,
+h3,
+h2,
+h1 {
+  letter-spacing: 2px;
+}
+
+footer .row {
+  margin-bottom: 0px !important;
+}
+
+.loader {
+  position: absolute;
+  top: 40%;
+  left: 47%;
+}
